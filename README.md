@@ -22,10 +22,10 @@ This command-line application prompts the user to enter the required medical par
 ## Usage
 Run the script:
 
-    ```bash
-    python main.py
+   ```bash
+   python main.py
 
-2. Follow the prompts to enter the required medical parameters when prompted.
+2.Follow the prompts to enter the required medical parameters when prompted.
 
 3. View the real-time feedback on abnormal parameter values and the calculated SIRS score.
 
