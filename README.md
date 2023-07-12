@@ -20,16 +20,12 @@ This command-line application prompts the user to enter the required medical par
    git clone https://github.com/umairrrkhan/Medical-Calculator
 
 ## Usage
-Run the script:
 
-   ```bash
-   python main.py
+1.Follow the prompts to enter the required medical parameters when prompted.
 
-2.Follow the prompts to enter the required medical parameters when prompted.
+2. View the real-time feedback on abnormal parameter values and the calculated SIRS score.
 
-3. View the real-time feedback on abnormal parameter values and the calculated SIRS score.
-
-4. Receive the final assessment of whether the patient meets the SIRS criteria or not.
+3. Receive the final assessment of whether the patient meets the SIRS criteria or not.
 
 ## Contributing
 
